@@ -1,0 +1,11 @@
+{
+  "expo": {
+    "name": "music_converter",
+    "slug": "music_converter",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  },
+  "name": "music_converter"
+}
